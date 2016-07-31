@@ -1,0 +1,21 @@
+{
+  "name": "migrate",
+  "version": "0.1.0",
+  "description": "Node-migrate adapter that uses a file to track migrations",
+  "keywords": [
+    "migrate",
+    "migrations",
+    "node-migrate"
+  ],
+  "author": "Andres Olave <andres.olave@thinkingbytes.net>",
+  "repository": "git://github.com/sloops77/node-migrate-filestore",
+  "devDependencies": {
+    "mocha": "^2.2.1"
+  },
+  "main": "node-migrate-filestore",
+  "engines": {
+    "node": ">= 0.4.x"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
