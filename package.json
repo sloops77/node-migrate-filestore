@@ -1,5 +1,5 @@
 {
-  "name": "migrate",
+  "name": "migrate-filestore",
   "version": "0.1.0",
   "description": "Node-migrate adapter that uses a file to track migrations",
   "keywords": [
