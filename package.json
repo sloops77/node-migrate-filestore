@@ -12,7 +12,7 @@
   "devDependencies": {
     "mocha": "^2.2.1"
   },
-  "main": "node-migrate-filestore",
+  "main": "index",
   "engines": {
     "node": ">= 0.4.x"
   },
